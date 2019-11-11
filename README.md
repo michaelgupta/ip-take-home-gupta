@@ -46,8 +46,9 @@ public class takeHome {
             counter++;
          }
          else{
-            counter++;
+          
             System.out.println(stringAfterRemovalOf4+counter);
+              counter++;
          }
       }   
    }
